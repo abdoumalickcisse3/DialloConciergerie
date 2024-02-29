@@ -1,0 +1,713 @@
+* {
+    font-family: sans-serif poppins;
+}
+
+
+.hero {
+    background-image: url("/images/Frame691.png");
+    height: 583px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.containerh {
+    width: 75%;
+    margin: auto;
+}
+
+.hero-titre h1 {
+    font-family: poppins;
+    font-size: 40px;
+    font-weight: 500;
+    color: #ffffff;
+    padding-top: 120px;
+    margin: 0 !important;
+}
+
+
+.hero-titre p {
+    font-family: poppins;
+    font-size: 24px;
+    font-weight: 500;
+    color: #ffffff;
+    padding-top: 120px;
+    padding-top: 12px;
+    margin: 0 !important;
+    padding-bottom: 63px;
+    width: 567px !important;
+}
+
+.hero-titre a {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 700;
+    word-wrap: break-word;
+    text-decoration: none;
+    background-color: #DAA520;
+    color: #ffffff;
+    padding: 20px 70px;
+    border-radius: 6px;
+}
+
+
+.titre-all-services {
+    text-align: center;
+}
+
+.titre-all-services p {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 700;
+    text-decoration: underline;
+    word-wrap: break-word;
+    padding-top: 45px;
+}
+
+.titre-all-services h2 {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-family: Poppins;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.img-serv img {
+    position: relative;
+}
+
+.inner-service {
+    padding-top: 50px;
+
+}
+
+
+
+.frm-contact {
+    text-align: center;
+    color: white;
+    /* display: inline-block; */
+    border-radius: 6px;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 700;
+    word-wrap: break-word;
+    padding: 12px 99px;
+    /* height: 50px !important; */
+    background-color: #DAA520;
+    /* position: relative; */
+    text-decoration: none;
+}
+
+.image-all-service {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 100%;
+    margin-left: 96px;
+}
+
+.embedd {
+    width: 380px !important;
+    height: 205px !important;
+    border-radius: 16px;
+    margin-left: 59px;
+}
+
+.video-contain {
+    /* display: grid; */
+    padding-top: 173px;
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    position: relative;
+
+    /* Définissez ici la hauteur souhaitée */
+    height: 300px;
+}
+
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.video-items {
+    padding-bottom: 300px !important;
+}
+
+.slick-prev {
+    top: 62% !important;
+    left: -68px !important;
+}
+
+.slick-next {
+    top: 62% !important;
+    right: -67px !important;
+}
+
+main {
+    overflow: hidden;
+}
+
+.nsEcrire {
+    background-image: url("/images/hero-img.png");
+    height: 703px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nsEcrire a {
+    font-size: 14px;
+    font-family: inter !important;
+    color: #ffffff;
+    font-weight: 400;
+    padding: 16px 24px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.all-serveices {
+    /* padding-bottom: 85px; */
+}
+
+.nsVls-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 146px;
+}
+
+.Vls {
+    display: flex;
+    padding-bottom: 65px;
+    gap: 30px;
+    margin-left: 92px;
+}
+
+.allVls {
+    text-align: center;
+}
+
+.nsVl-title h2 {
+    padding-bottom: 45px;
+    font-size: 36px;
+    color: black;
+    font-weight: 500;
+    font-family: poppins;
+    margin: 0;
+}
+
+.Vls h4 {
+    color: black;
+    font-size: 32px;
+    font-family: Poppins;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Vls img {
+
+
+    width: 120px;
+}
+
+.nsVl-img img {
+    width: 121%;
+    object-fit: cover !important;
+    height: 100%;
+}
+
+.titre-barre {
+    position: relative;
+    font-size: 40px;
+    font-family: Poppins;
+    font-weight: 700;
+}
+
+.titre-barre::after {
+    content: '';
+    position: absolute;
+    bottom: 33px;
+    left: 0;
+    width: 34%;
+    height: 10px;
+    background-color: #DAA520;
+    /* Couleur de la barre horizontale */
+}
+
+.nsVls {
+    padding-bottom: 131px;
+}
+
+.cntc {
+    background-color: #DAA520;
+}
+
+.contact-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ctc {
+    padding-top: 88px;
+    padding-bottom: 88px;
+}
+
+
+/*  ------------------------------------------------ */
+/* Styles généraux */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f0f0;
+}
+
+.containerh {
+    width: 75%;
+    margin: auto;
+}
+
+.hero {
+    background-image: url("/images/Frame691.png");
+    height: 583px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.styl {
+    width: 609px;
+    height: 33px;
+    color: white;
+    font-size: 38px;
+    font-family: Poppins;
+    font-weight: 700;
+    word-wrap: break-word;
+    padding-top: 205px;
+    padding-bottom: 36px;
+}
+
+
+.styl1 {
+    width: 614px;
+    height: 43.13px;
+    color: rgba(255, 255, 255, 0.61);
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 27px;
+    word-wrap: break-word;
+    padding-bottom: 36px;
+}
+
+/* Ajoutez d'autres styles ici */
+
+/* Media Queries pour les écrans de taille moyenne (tablettes) */
+@media screen and (max-width: 992px) {
+    .containerh {
+        width: 90%;
+        /* Réduire la largeur du conteneur */
+    }
+
+    /* Autres ajustements pour les éléments spécifiques */
+    .hero {
+        height: 400px;
+        /* Ajuster la hauteur du héros */
+    }
+
+    .nsEcrire {
+        height: 400px;
+        /* Ajuster la hauteur du héros */
+    }
+
+    /* Ajoutez d'autres styles ici */
+}
+
+@media screen and (max-width: 1032px) {
+    .containerh {
+        width: 90%;
+        /* Réduire la largeur du conteneur */
+    }
+
+    /* Autres ajustements pour les éléments spécifiques */
+    .nsVls-item {
+        display: block !important;
+
+    }
+
+    .nsVl-img img {
+        width: 100%;
+    }
+
+    .allVls {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+
+        /* Ajoutez d'autres styles ici */
+    }
+
+    .titre-barre::after {
+
+        left: 295px !important;
+    }
+
+    .nsVl-title h2 {
+        text-align: center !important;
+    }
+
+}
+
+@media screen and (max-width: 950px) {
+    .containerh {
+        width: 90%;
+        /* Réduire la largeur du conteneur */
+    }
+
+    /* Autres ajustements pour les éléments spécifiques */
+    .nsVls-item {
+        display: block !important;
+
+    }
+
+    .nsVl-img img {
+        width: 100%;
+    }
+
+    .allVls {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+
+        /* Ajoutez d'autres styles ici */
+    }
+
+    .titre-barre::after {
+
+        left: 295px !important;
+    }
+
+    .nsVl-title h2 {
+        text-align: center !important;
+    }
+
+}
+
+@media screen and (max-width: 680px) {
+    .containerh {
+        width: 90%;
+        /* Réduire la largeur du conteneur */
+    }
+
+    /* Autres ajustements pour les éléments spécifiques */
+    .nsVls-item {
+        display: block !important;
+
+    }
+
+    .nsVl-img img {
+        width: 100%;
+    }
+
+    .allVls {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+
+        /* Ajoutez d'autres styles ici */
+    }
+
+    .titre-barre::after {
+
+        left: 0 !important;
+    }
+
+    .Vls h4 {
+
+        font-size: 24px;
+    }
+
+    .nsVl-title h2 {
+        text-align: left !important;
+        font-size: 28px !important;
+    }
+
+}
+
+@media screen and (max-width: 1270px) {
+    .containerh {
+        width: 90%;
+        /* Réduire la largeur du conteneur */
+    }
+
+    /* Autres ajustements pour les éléments spécifiques */
+    .contact-item {
+        display: block;
+    }
+
+    .inner-cntc {
+        padding-top: 100px !important;
+    }
+
+    .ctc {
+        text-align: center !important;
+    }
+
+    .cntc-inner {
+        display: flex;
+        justify-content: center;
+
+
+    }
+}
+
+
+@media screen and (max-width: 1499px) {
+    .containerh {
+        width: 90%;
+        /* Réduire la largeur du conteneur */
+    }
+
+    /* Autres ajustements pour les éléments spécifiques */
+    .hero {
+        height: 400px;
+        /* Ajuster la hauteur du héros */
+    }
+
+    .nsEcrire {
+        height: 400px;
+        /* Ajuster la hauteur du héros */
+    }
+
+    .styl {
+        padding-top: 128px !important;
+    }
+
+    .hero-titre p {
+        font-size: 19px !important;
+    }
+
+    .hero-titre h1 {
+        font-size: 28px !important;
+    }
+
+    /* Ajoutez d'autres styles ici */
+}
+
+/* Media Queries pour les écrans de petite taille (téléphones) */
+@media screen and (max-width: 790px) {
+    .containerh {
+        width: 95%;
+        /* Réduire davantage la largeur du conteneur */
+    }
+
+    /* Autres ajustements pour les éléments spécifiques */
+    .hero {
+        height: 200px;
+        /* Ajuster encore la hauteur du héros */
+    }
+
+    .nsEcrire {
+        height: 200px;
+        /* Ajuster la hauteur du héros */
+    }
+
+    .hero-titre h1 {
+        padding-top: 70px;
+        font-size: 16px !important;
+        /* Ajuster encore la hauteur du héros */
+    }
+
+    .hero-titre p {
+        font-size: 9px !important;
+        width: 386px !important;
+        padding-bottom: 18px !important;
+
+    }
+
+    .hero-titre a {
+        padding: 7px 19px !important;
+        font-size: 14px !important;
+
+    }
+
+    .titre-all-services h2 {
+        font-size: 26pxx !important;
+    }
+
+    .styl {
+        font-size: 14px !important;
+        padding-top: 56px !important;
+        padding-bottom: 0px !important;
+    }
+
+
+    .styl1 {
+        padding-bottom: 22px !important;
+
+        font-size: 10px;
+        width: 330px;
+        line-height: 12px;
+    }
+
+
+
+    /* Ajoutez d'autres styles ici */
+}
+
+@media screen and (max-width: 600px) {
+    .containerh {
+        width: 95%;
+        /* Réduire davantage la largeur du conteneur */
+    }
+
+    /* Autres ajustements pour les éléments spécifiques */
+    .hero {
+        height: 200px;
+        /* Ajuster encore la hauteur du héros */
+    }
+
+    .nsEcrire {
+        height: 200px;
+        /* Ajuster la hauteur du héros */
+    }
+
+    .titre-all-services h2 {
+        font-size: 30px !important;
+    }
+
+    .hero-titre h1 {
+        padding-top: 70px !important;
+        font-size: 10px !important;
+        /* Ajuster encore la hauteur du héros */
+    }
+
+    .hero-titre p {
+        font-size: 10px !important;
+        width: 389px !important;
+        padding-bottom: 21px !important;
+
+    }
+
+    .hero-titre a {
+        padding: 12px 33px !important;
+
+
+    }
+
+    .inner-cntc img {
+        width: 100% !important;
+    }
+
+
+    .styl2 {
+
+        width: 100% !important;
+    }
+
+    /* Ajoutez d'autres styles ici */
+}
+
+@media screen and (max-width: 359px) {
+    .image-all-service {
+        margin-left: 0 !important;
+    }
+
+    .frm-contact {
+        padding: 12px 79px !important;
+    }
+
+    /* Ajoutez d'autres styles ici */
+}
+
+
+@media screen and (max-width: 500px) {
+    .containerh {
+        width: 95%;
+        /* Réduire davantage la largeur du conteneur */
+    }
+
+    /* Autres ajustements pour les éléments spécifiques */
+    .hero {
+        height: 150px;
+        /* Ajuster encore la hauteur du héros */
+    }
+
+    .nsEcrire {
+        height: 150px !important;
+        margin-top: -34px;
+        /* Ajuster la hauteur du héros */
+    }
+
+
+
+    .nsEcrire a {
+
+        padding: 9px 19px;
+    }
+
+    .hero-titre h1 {
+        padding-top: 37px !important;
+        font-size: 13px !important;
+    }
+
+    .hero-titre p {
+        font-size: 8px !important;
+        width: 219px !important;
+        padding-bottom: 14px !important;
+        padding-top: 2px !important;
+    }
+
+    .hero-titre a {
+        padding: 9px 17px !important;
+        font-size: 10px !important;
+
+
+    }
+
+    .image-all-service {
+        margin-left: 0 !important;
+    }
+
+    .styl {
+        font-size: 12px !important;
+        padding-top: 34px !important;
+    }
+
+
+    .styl1 {
+        padding-bottom: 6px !important;
+        font-size: 9px;
+        width: 301px;
+        line-height: 12px;
+    }
+
+    .inner-cntc img {
+        width: 100% !important;
+    }
+
+
+    .styl2 {
+
+        width: 100% !important;
+    }
+
+    .styl2 input {
+
+        width: 379px !important;
+    }
+
+    .styl2 textarea {
+
+        width: 379px !important;
+    }
+
+    .embedd {
+        width: 271px !important;
+        height: 163px !important;
+    }
+
+
+    /* Ajoutez d'autres styles ici */
+}

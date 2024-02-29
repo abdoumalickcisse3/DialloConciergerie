@@ -1,0 +1,59 @@
+.hero-us {
+    background-image: url("/images/team-subheader (1) 2.31.52 PM.png");
+    height: 415px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.containerh {
+    width: 75%;
+    margin: auto;
+}
+
+
+
+.jumbo p {
+    padding-top: 170px;
+    text-align: center;
+    color: #F1913F;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 800;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    margin: 0;
+
+
+}
+
+
+.jumbo h1 {
+    margin: 0;
+    text-align: center;
+    color: #EEEEEE;
+    font-size: 34px;
+    font-family: Poppins;
+    font-weight: 800;
+    word-wrap: break-word
+}
+
+
+.about-us {
+    padding-top: 123px;
+    display: flex;
+    /* gap: 43px; */
+    justify-content: space-between;
+}
+
+.txt {
+    padding-top: 55px;
+    font-size: 26px;
+    width: 100%;
+    font-family: 'Poppins';
+    line-height: 1.5;
+}
+
+.img-us {
+    display: flex;
+    justify-content: space-between;
+}
