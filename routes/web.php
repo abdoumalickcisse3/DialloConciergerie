@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AproposController;
+use App\Http\Controllers\GalerieController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +18,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/Apropos', [AproposController::class, 'index'])->name('apropos');
+Route::get('/Galerie', [GalerieController::class, 'index'])->name('galerie');
