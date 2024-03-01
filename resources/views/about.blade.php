@@ -1,29 +1,8 @@
-
-
-
-
+@extends('layout')
 <!DOCTYPE html>
 <html>
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
-
-    <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.bunny.net">
-    <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="{{asset('css/about.css')}}">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-        rel="stylesheet">
-
-    <!-- Styles -->
-
-</head>
 
 <body class="antialiased">
 
@@ -66,13 +45,13 @@
 
     <div class="NotreExpertiseSETendAuDelaDeLaConciergeriePriveENousSommesEGalementDesExpertsEnPlanificationEtEnOrganisationDeVoyagesQueVousSouhaitiezExplorerLeMarocOuVoyagerPourDesBesoinsProfessionnelsNousSommesLaPourVousVoyagesDExceptionDeCouvrezLeMarocDeManieReIneDiteAvecNosItineRairesSurMesureQuiVousFerontDeCouvrirLesTreSorsCacheSDeCePaysCaptivantVoyagesDAffairesSimplifiezVosDePlacementsProfessionnelsAvecNotreServiceDeDieDeLaReServationDeVolsEtDHoTelsALaCoordinationDeReUnions" style="width: 563px; text-align: justify">
         <div class="PlanificationEtOrganisationDeVoyages" style="text-align: justify; color: #DAA520; font-size: 24px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Planification et Organisation de Voyages</div>
-        <span style="color: black; font-size: 18px; font-family: Poppins; font-weight: 700; word-wrap: break-word"><br/>Notre expertise s'étend au-delà de la conciergerie privée. Nous sommes également des experts en planification et en organisation de voyages. Que vous souhaitiez explorer le Maroc ou voyager pour des besoins professionnels, nous sommes là pour vous.<br/></span><span style="color: #DAA520; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Voyages d'Exception</span><span style="color: black; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word"> : Découvrez le Maroc de manière inédite avec nos itinéraires sur mesure qui vous feront découvrir les trésors cachés de ce pays captivant. </span>
+        <span style="color: black; font-size: 18px; font-family: Poppins; font-weight: 700; word-wrap: break-word"><br/>Notre expertise s'étend au-delà de la conciergerie privée. Nous sommes également des experts en planification et en organisation de voyages. Que vous souhaitiez explorer le Maroc ou voyager pour des besoins professionnels, nous sommes là pour vous.<br/></span><span style="color: #DAA520; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Voyages d'Exception</span><span style="color: black; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word"> : Découvrez le Maroc de manière inédite avec nos itinéraires sur mesure qui vous feront découvrir les trésors cachés de ce pays captivant.</span>
     <span style="color: #DAA520; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Voyages d'Affaires</span><span style="color: black; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word"> : Simplifiez vos déplacements professionnels avec notre service dédié, de la réservation de vols et d'hôtels à la coordination de réunions.</span></div>
  </div>
  <div class="about-us">
     <div class="Group692" style="width: 581px; height: 462px; position: relative">
         <div class="NotreEquipe" style="left: 192px; top: 0px; position: absolute; text-align: justify; color: #DAA520; font-size: 24px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Notre Equipe</div>
-        <div class="NousSommesFiersDeNotreEQuipeDeVoueEComposeEDeProfessionnelsHautementQualifieSCourtoisEtReActifsChaqueMembreDeLEQuipeDiAlloConciergerieEstPassionneParLArtDeRendreVotreViePlusFacileEtVotreVoyageInoubliableVotreSatisfactionNotrePrioriteChezDiAlloConciergerieVotreSatisfactionEstNotrePrioriteAbsolueNousSommesDisponiblesAToutMomentAttentifsAVosBesoinsEtPreTsARePondreAVosMoindresDemandesNotreObjectifEstDeRendreChaqueAspectDeVotreVieQuotidiennePlusSimpleEtDeFaireDeChaqueVoyageUneExpeRienceExceptionnelle" style="width: 581px; height: 407px; left: 0px; top: 55px; position: absolute; color: black; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Nous sommes fiers de notre équipe dévouée, composée de professionnels hautement qualifiés, courtois et réactifs. Chaque membre de l'équipe DI’ALLO Conciergerie est passionné par l'art de rendre votre vie plus facile et votre voyage inoubliable. Votre Satisfaction, Notre Priorité   Chez DI’ALLO Conciergerie, votre satisfaction est notre priorité absolue. Nous sommes disponibles à tout moment, attentifs à vos besoins et prêts à répondre à vos moindres demandes. Notre objectif est de rendre chaque aspect de votre vie quotidienne plus simple et de faire de chaque voyage une expérience exceptionnelle.</div>
+        <div class="NousSommesFiersDeNotreEQuipeDeVoueEComposeEDeProfessionnelsHautementQualifieSCourtoisEtReActifsChaqueMembreDeLEQuipeDiAlloConciergerieEstPassionneParLArtDeRendreVotreViePlusFacileEtVotreVoyageInoubliableVotreSatisfactionNotrePrioriteChezDiAlloConciergerieVotreSatisfactionEstNotrePrioriteAbsolueNousSommesDisponiblesAToutMomentAttentifsAVosBesoinsEtPreTsARePondreAVosMoindresDemandesNotreObjectifEstDeRendreChaqueAspectDeVotreVieQuotidiennePlusSimpleEtDeFaireDeChaqueVoyageUneExpeRienceExceptionnelle" style="width: 581px; height: 407px; left: 0px; top: 55px; position: absolute; color: black; font-size: 20px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Nous sommes fiers de notre équipe dévouée, composée de professionnels hautement qualifiés, courtois et réactifs. Chaque membre de l'équipe DI’ALLO Conciergerie est passionné par l'art de rendre votre vie plus facile et votre voyage inoubliable. Votre Satisfaction, Notre Priorité  Chez DI’ALLO Conciergerie, votre satisfaction est notre priorité absolue. Nous sommes disponibles à tout moment, attentifs à vos besoins et prêts à répondre à vos moindres demandes. Notre objectif est de rendre chaque aspect de votre vie quotidienne plus simple et de faire de chaque voyage une expérience exceptionnelle.</div>
       </div>
     <div class="Group680" style="width: 579px; height: 450px; position: relative">
       <div class="Rectangle65" style="width: 579px; height: 450px; left: 0px; top: 0px; position: absolute; background: #DAA520; border-radius: 8px"></div>

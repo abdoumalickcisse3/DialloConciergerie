@@ -3,6 +3,10 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AproposController;
 use App\Http\Controllers\GalerieController;
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\ServiceController;
+use App\Http\Controllers\ContactController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -16,7 +20,9 @@ use App\Http\Controllers\GalerieController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 Route::get('/Apropos', [AproposController::class, 'index'])->name('apropos');
 Route::get('/Galerie', [GalerieController::class, 'index'])->name('galerie');
+Route::get('/Service', [ServiceController::class, 'index'])->name('service');
+Route::get('/Contact', [ContactController::class, 'index'])->name('contact');

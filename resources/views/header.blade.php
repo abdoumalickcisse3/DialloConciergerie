@@ -4,10 +4,10 @@
 
     <nav class="navbar">
         <a href="{{ ('/') }}" >Acceuil</a>
-        <a href="{{ route('apropos') }}" class="active">À Propos</a>
-        <a href="#services">Services</a>
+        <a href="{{ route('apropos') }}" >À Propos</a>
+        <a href="{{ route('service') }}">Services</a>
         <a href="{{ route('galerie') }}">Galerie</a>
-        <a class="last-child" href="#Contact">Contact</a>
+        <a class="last-child" href="{{ route('contact') }}">Contact</a>
         <button class="signature">Signature</button>
     </nav>
 
