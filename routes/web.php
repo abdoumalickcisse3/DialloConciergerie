@@ -22,7 +22,11 @@ use App\Http\Controllers\ContactController;
 Route::get('/', function () {
     return view('home');
 });
+Route::get('/service', function () {
+    return view('service');
+});
 Route::get('/Apropos', [AproposController::class, 'index'])->name('apropos');
 Route::get('/Galerie', [GalerieController::class, 'index'])->name('galerie');
 Route::get('/Service', [ServiceController::class, 'index'])->name('service');
 Route::get('/Contact', [ContactController::class, 'index'])->name('contact');
+Route::post('/contact/send', [ContactController::class, 'send'])->name('contact.send');

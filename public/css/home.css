@@ -12,6 +12,7 @@ main{
     height: 583px;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 100px;
 }
 
 .containerh {
@@ -109,8 +110,8 @@ main{
 
 .image-all-service {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    width: 100%;
+    grid-template-columns: 1fr;
+
     margin-left: 96px;
 }
 
@@ -292,7 +293,7 @@ body {
     font-weight: 700;
     word-wrap: break-word;
     padding-top: 205px;
-    padding-bottom: 36px;
+    padding-bottom: 66px;
 }
 
 
@@ -305,7 +306,7 @@ body {
     font-weight: 400;
     line-height: 27px;
     word-wrap: break-word;
-    padding-bottom: 36px;
+    padding-bottom: 84px;
 }
 
 /* Ajoutez d'autres styles ici */
