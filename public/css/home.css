@@ -175,10 +175,10 @@ main {
     background-color: black;
     border-radius: 8px;
 }
-
+/* 
 .all-serveices {
-    /* padding-bottom: 85px; */
-}
+    padding-bottom: 85px; 
+} */
 
 .nsVls-item {
     display: flex;
