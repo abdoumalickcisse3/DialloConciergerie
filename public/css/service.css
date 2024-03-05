@@ -533,8 +533,53 @@
     }
 
     .frm-contact {
-        padding: 9px 1px !important;
-        font-size: 13px !important;
+        padding: 9px 6px !important;
+        font-size: 12px !important;
+    }
+
+    .all-serv {
+        padding-top: 0px !important;
+    }
+
+    .jumbo h1 {
+        font-size: 24px !important;
+    }
+
+    /* Ajoutez d'autres styles ici */
+}
+
+@media screen and (max-width: 400px) {
+    .containerh {
+        width: 90%;
+        /* Réduire la largeur du conteneur */
+    }
+
+    /* Autres ajustements pour les éléments spécifiques */
+    .service {
+        height: 150px;
+        /* Ajuster la hauteur du héros */
+    }
+
+
+
+    .image-all-service {
+
+        grid-template-columns: 1fr   !important;
+        text-align: center !important;
+    }
+
+    .jumbo p {
+        padding-top: 72px !important;
+        font-size: 8px !important;
+    }
+
+    .img-serv img {
+        width: 150px !important;
+    }
+
+    .frm-contact {
+        padding: 9px 6px !important;
+        font-size: 12px !important;
     }
 
     .all-serv {
