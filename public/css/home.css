@@ -12,7 +12,6 @@ main{
     height: 583px;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 100px;
 }
 
 .containerh {
@@ -256,6 +255,7 @@ main {
 
 .contact-item {
     display: flex;
+    gap: 50px;
     justify-content: space-between;
 }
 
@@ -273,7 +273,7 @@ body {
 }
 
 .containerh {
-    width: 75%;
+    width: 80%;
     margin: auto;
 }
 

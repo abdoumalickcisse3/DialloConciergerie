@@ -270,6 +270,12 @@ body {
     font-weight: 700;
     word-wrap: break-word;
 }
+.about-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .about-content-item{
     width: 1179px;
     height: 509px;
@@ -350,6 +356,7 @@ body {
     display: flex;
     gap: 20px;
 }
+
 
 
 
