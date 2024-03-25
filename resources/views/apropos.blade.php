@@ -1,46 +1,35 @@
 @extends( 'layout' )
-    <div class="banniere">
-        <div class="banner">
-            <p>DI’ALLO Conciergerie</p>
-            <h1>À Propos</h1>
+
+    
+    <div class="banniere1">
+        <div class="banner1">
+            
+            <h1>Decouvrez un Monde où tout est possible</h1>
         </div>
     </div>
 @section('content')
     <div class="about-content">
-        <div class="about-content-item">
-            <p>Bienvenue chez DI’ALLO Conciergerie, votre partenaire de confiance pour des voyages inoubliables et des services de conciergerie privée au Maroc. Notre expérience solide nous permet de répondre à vos besoins, qu'il s'agisse de vous accompagner en tant que coursier privé ou de planifier des voyages d'exception.</p>
-            <img src="{{ asset('images/Frame 680.svg') }}" alt="">
-        </div>
-        <div class="about-content-item">
-            <img src="{{ asset('images/Group 681.svg') }}" alt="">
-            <div class="item-text">
-                <h1>La Conciergerie Privée</h1>
-                <p>Chez DI’ALLO Conciergerie, nous comprenons l'importance de votre temps et de votre confort. Notre service de conciergerie privée et notre service de coursier privé également connu sous le nom de FAST TRACK, vise à simplifier votre vie quotidienne. Nous nous engageons à fournir un service exceptionnel qui garantit votre sécurité, votre discrétion et votre confort.</p>
+        <div class="about-content-item1">
+            <div class="gridal1">
+                <h1 class="gridal1-item-title">A propos de nous</h1>
+                <p class="gridal1-item-text">   
+                    DI°ALLO Conciergerie, une entreprise qui va bien au-delà des frontières, est fondé par Abdelaziz DIALLO un jeune sénégalo-marocain, de père sénégalais et d'une mère marocaine. son parcours a débuté au Sénégal, imprégné de la richesse culturelle et familiale de ses origines. Ayant établi son foyer au Maroc depuis neuf ans maintenant, il a trouvé dans ce pays un nouveau cadre pour donner vie à ses rêves et à ses aspirations.
+
+                    DI°ALLO Conciergerie n'est pas simplement une entreprise, mais plutôt une expression notre passion profonde de faciliter la vie de nos clients. Cette aventure entrepreneuriale a commencé il y a quelques années, avec la vision de créer des expériences inoubliables et des moments uniques pour ceux que nous servons.
+
+                    Au cœur de cette entreprise se trouve un associé, Mamadou Diallo, dont l'expertise et le dévouement ont grandement contribué à façonner DI°ALLO Conciergerie. Établi au Sénégal, Mamadou apporte une perspective locale précieuse à notre travail, enrichissant ainsi notre capacité à servir nos clients de manière exceptionnelle, qu'ils se trouvent au Maroc, au Sénégal, ou ailleurs. 
+
+                    Chez DI°ALLO Conciergerie, nous ne nous contentons pas de fournir des services ; nous nous engageons profondément envers le bonheur et le bien-être de nos clients. Nous sommes fiers de créer des expériences significatives qui répondent à leurs besoins individuels et laissent une empreinte durable dans leur vie."
+
+                    DI°ALLO CONCIERGERIE et vos voyages deviennent plus seriens...
+
+                </p>
+                <a href="#" class="gridal1-item-link">Contactez-nous</a>
+            </div>
+            <div class="gridal2">
+                <img src="{{ asset('images/pexels-meliani-driss-2982449.jpg') }}" alt="">
             </div>
         </div>
-        <div class="about-content-item">
-            <div class="item-text2">
-                <h5>Gestion du Temps:</h5><span> Nous prenons en charge</span>
-                <ul>
-                    <li>la réservation de services de nettoyage, d'entretien de la maison,</li>
-                    <li>la coordination de rendez-vous médicaux.</li>
-                </ul>
-                <h5>Services Personnalisés:</h5><span> Que ce soit pour</span>
-                <ul>
-                    <li>Des services de bien-être</li>
-                    <li>Des achats personnels</li>
-                    <li>L'organisation d'événements spéciaux</li>
-                </ul>
-                <p>Nous nous occupons de tout, vous permettant de vous détendre et de profiter pleinement de votre vie.</p>
-            </div>
-            <img src="{{ asset('images/manko.svg') }}" alt="">
-        </div>
-        <div class="about-content-item">
-            <img src="{{ asset('images/hotel.svg') }}" alt="">
-            <div class="item-text">
-                <h1>La Conciergerie Privée</h1>
-                <p>Chez DI’ALLO Conciergerie, nous comprenons l'importance de votre temps et de votre confort. Notre service de conciergerie privée et notre service de coursier privé également connu sous le nom de FAST TRACK, vise à simplifier votre vie quotidienne. Nous nous engageons à fournir un service exceptionnel qui garantit votre sécurité, votre discrétion et votre confort.</p>
-            </div>
-        </div>
+        <div class="about-content-item2"></div>
     </div>
 @endsection

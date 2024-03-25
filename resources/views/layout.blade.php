@@ -11,9 +11,21 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">    <link rel="stylesheet" href="{{asset('cssfiles/style.css')}}">
-    <title>Document</title>
+    <title>Di'allo Conciergerie</title>
+    <link rel="stylesheet" href="{{ asset('/cssfiles/blog.css') }}">
+    <script>
+        var logo1 = '{{ asset("images/logo1.png") }}';
+        var logo2 = '{{ asset("images/logo2.png") }}';
+    </script>
+    
+
 </head>
 <body>
+    <div class="whatsapp-button">
+        <a href="https://wa.me/221787123843" target="_blank">
+            <img src="{{ asset('images/whatsapp-icon.png') }}" alt="WhatsApp">
+        </a>
+    </div>
     <div class="container">
         @include('header')
         <div class="mt-5">
