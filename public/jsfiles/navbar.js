@@ -10,7 +10,18 @@ menuIcon.onclick = () => {
 
 
 /*========== scroll sections active link ==========*/
-let navLinks = document.querySelectorAll('header nav a');
+document.addEventListener("DOMContentLoaded", function() {
+    var currentLocation = window.location.href;
+    var menuItem = document.querySelectorAll('.navbar a');
+    var menuLength = menuItem.length;
+    for (var i = 0; i< menuLength; i++) {
+        if(menuItem[i].href === currentLocation) {
+            menuItem[i].className = "active";
+        }
+    }
+});
+
+
 
 window.onscroll = () => {
 /*========== sticky navbar ==========*/

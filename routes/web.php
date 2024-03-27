@@ -7,6 +7,7 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ServiceController;
 use App\Http\Controllers\ContactController;
 
+use App\Http\Controllers\BlogController;
 
 /*
 |--------------------------------------------------------------------------
@@ -27,6 +28,10 @@ Route::get('/service', function () {
 });
 Route::get('/Apropos', [AproposController::class, 'index'])->name('apropos');
 Route::get('/Galerie', [GalerieController::class, 'index'])->name('galerie');
+<<<<<<< HEAD
 Route::get('/Service', [ServiceController::class, 'index'])->name('service');
 Route::get('/Contact', [ContactController::class, 'index'])->name('contact');
 Route::post('/contact/send', [ContactController::class, 'send'])->name('contact.send');
+=======
+Route::get('/Blog', [BlogController::class, 'index'])->name('blog');
+>>>>>>> e2e8d512a5197815477ea072de8962dd50566dd9

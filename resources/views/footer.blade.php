@@ -1,7 +1,7 @@
 <footer>
    <div class="footer-top">
         <div class="footer-content1">
-            <a href="{{ ('/') }}" class="logo"><img src="{{ asset('images/logo.svg') }}" alt="" /></a>
+            <a href="{{ ('/') }}" class="logo1"><img style="width: 300px; padding-bottom: 30px" src="{{ asset('images/logo2.png') }}" alt="" /></a>
             <p>Découvrez l'art de la persuasion moderne à travers notre univers d'influence créative</p>
         </div>
         <div class="footer-content2">
