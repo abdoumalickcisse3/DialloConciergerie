@@ -100,7 +100,7 @@
 
 .serv-xtx h4 {
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     font-size: 18px;
     font-weight: 500;
     margin: 0;
@@ -111,6 +111,22 @@
     font-size: 14px;
     font-weight: 100;
     color: #242323;
+}
+
+.plus {
+
+
+
+    border: 2px solid;
+    border-color: #edc541;
+    padding: 6px 14px;
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+    display: inline-block;
+    border-radius: 19px;
+
+
 }
 
 

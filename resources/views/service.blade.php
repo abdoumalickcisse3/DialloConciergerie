@@ -37,7 +37,7 @@
                         </h4>
                         <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
                         </p>
-                        <a href=""></a>
+                        <a href="" class="plus">Voir Plus</a>
                     </div>
                 </div>
                 <div class="sc-service">
@@ -48,9 +48,10 @@
                         <h4>Fast Car 
 
                         </h4>
-                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        <p>DI.ALLO Conciergerie vous propose un service exclusif de voiture privée avec chauffeur, pour des déplacements en toute élégance et confort.
+
                         </p>
-                        <a href=""></a>
+                        <a href="" class="plus">Voir Plus</a>
                     </div>
                 </div>
                 <div class="sc-service">
@@ -60,9 +61,10 @@
                     <div class="serv-xtx">
                         <h4>Hébergement
                         </h4>
-                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        <p>DI.ALLO Conciergerie vous offre un service d'hébergement sur mesure, vous garantissant un séjour inoubliable. Que ce soit pour une escapade romantique, des vacances en famille ou un voyage d'affaires,
+
                         </p>
-                        <a href=""></a>
+                        <a href="" class="plus">Voir Plus</a>
                     </div>
                 </div>
                 <div class="sc-service">
@@ -73,9 +75,10 @@
                         <h4>Location de voiture 
  
                         </h4>
-                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        <p>DI.ALLO Conciergerie vous propose un service de location de voiture sur mesure, vous offrant une solution pratique et flexible pour vos déplacements. Que ce soit pour un voyage d'affaires, des vacances en famille ou une escapade en solo
+
                         </p>
-                        <a href=""></a>
+                        <a href="" class="plus">Voir Plus</a>
                     </div>
                 </div>
                 <div class="sc-service">
@@ -86,9 +89,10 @@
                         <h4>Excursion
  
                         </h4>
-                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        <p>DI.ALLO Conciergerie vous propose un service de location de voiture sur mesure, vous offrant une solution pratique et flexible pour vos déplacements. Que ce soit pour un voyage d'affaires, des vacances en famille ou une escapade en solo
+
                         </p>
-                        <a href=""></a>
+                        <a href=""class="plus">Voir Plus</a>
                     </div>
                 </div>
                 <div class="sc-service">
@@ -99,9 +103,10 @@
                         <h4>Sortie
  
                         </h4>
-                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        <p>DI.ALLO Conciergerie vous aide à la recherche d’un lieu événementiel pour votre anniversaire, votre soirée ou sortie entre amis… 
+
                         </p>
-                        <a href=""></a>
+                        <a href="" class="plus">Voir Plus</a>
                     </div>
                 </div>
             </div>
