@@ -26,14 +26,66 @@
 
 <body class="antialiased">
     <main>
-        <section class="hero">
-            <div class="hero-titre containerh">
-                <h1>The Key to accessibility...</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                    industry's</p>
-                <a href="#">Join Communauty</a>
+        <section class="her">
+         
+           <div class="im-heros">
+           
+            <div class="img-heros">
+           
+                <img src="/images/arton72525.png" alt="">
+                <div class="text-overlay">
+                    <h2>DI.ALLO CONCIERGERIE est une 
+                        expression de notre passion profonde de faciliter la vie de nos 
+                        clients,avec la vision de creer des experience inoubliables et  des moments
+                        uniques pour ceux que nous servons .
+                        <<Avec DI.ALLO CONCIERGERIE vos voyage deviennent plus sereins >>
+                    </h2>
+                  
+                </div>
             </div>
+            <div class="img-heros">
+                <img src="/images/Marokko_Chefchaouen_Blick_u__ber_die_Stadt.jpg" alt="">
+                <div class="text-overlay">
+                    <h2>DI.ALLO CONCIERGERIE est une 
+                        expression de notre passion profonde de faciliter la vie de nos 
+                        clients,avec la vision de creer des experience inoubliables et  des moments
+                        uniques pour ceux que nous servons .
+                        <<Avec DI.ALLO CONCIERGERIE vos voyage deviennent plus sereins >>
+                    </h2>
+                </div>
+            </div>
+            <div class="img-heros">
+                <img src="/images/pexels-moussa-idrissi-3581916.jpg" alt="">
+                <div class="text-overlay">
+                    <h2>DI.ALLO CONCIERGERIE est une 
+                        expression de notre passion profonde de faciliter la vie de nos 
+                        clients,avec la vision de creer des experience inoubliables et  des moments
+                        uniques pour ceux que nous servons .
+                        <<Avec DI.ALLO CONCIERGERIE vos voyage deviennent plus sereins >>
+                    </h2>
+                </div>
+            </div>
+           </div>
         </section>
+
+
+
+        <div class="txtof">
+            <div class="xtx">
+           <p>Bienvenue aa service</p>
+             <h2>Chez.DI.ALLO CONCIERGERIE</h2>
+             <p>Nous sommes en mesure de fournir un service de haute qualité pour des invités de marque. Notre objectif est d'offrir la sécurité, la discrétion et un confort inégalable pour vous et vos invités.
+
+                De plus, nous avons élaboré des solutions adaptées pour vos déplacements professionnels ou privés. Quel que soit le temps que durera votre sortie, votre bien-être et votre satisfaction sont notre priorité.
+                 
+                Avec DI°ALLO Conciergerie, découvrez la qualité et la fiabilité d'une équipe disponible, courtoise, réactive et à votre écoute tout au long de votre séjour.  
+                
+                Chez DI°ALLO Conciergerie, nous ne nous contentons pas de fournir des services ; nous nous engageons profondément envers le bonheur et le bien-être de nos clients. Nous sommes fiers de créer des expériences significatives qui répondent à leurs besoins individuels et laissent une empreinte durable dans leur vie."
+                </p>
+                <a href="#">Nous Ecrire</a>
+            </div>
+            <img src="/images/ServicesdeConciergeriedeluxeMonde.jpeg" alt="">
+        </div>
         <section class="all-serveices ">
             <div class="titre-all-services containerh">
                 <p>Ce que nous faisons</p>
@@ -242,6 +294,18 @@
 
 
             ]
+        });
+        $('.im-heros').slick({
+            infinite: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: false,
+            autoplay: true,
+            autoplaySpeed: 1000,
+            fade: true,
+          
+           
+            
         });
     </script>
     <script type="text/javascript">

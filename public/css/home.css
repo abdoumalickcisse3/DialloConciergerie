@@ -2,7 +2,7 @@
     font-family: sans-serif poppins;
 }
 
-main{
+main {
     padding-top: 100px;
 }
 
@@ -175,6 +175,7 @@ main {
     background-color: black;
     border-radius: 8px;
 }
+
 /* 
 .all-serveices {
     padding-bottom: 85px; 
@@ -307,6 +308,55 @@ body {
     line-height: 27px;
     word-wrap: break-word;
     padding-bottom: 84px;
+}
+
+
+
+
+.img-heros img {
+    width: 100%;
+    height: 600px;
+}
+
+.im-heros {
+    position: relative;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    z-index: 1;
+    /* Assure que le texte soit au-dessus de l'image */
+}
+
+.text-overlay h2,
+.text-overlay p {
+    margin: 0;
+}
+
+
+
+.txtof {
+    display: flex;
+    /* gap: 390px; */
+    width: 100% !important;
+}
+
+.txtof img {
+    width: 54%;
+    object-fit: cover;
+    height: 660px;
+}
+
+
+.xtx {
+    text-align: center;
+    width: 100%;
+    padding-top: 110px;
 }
 
 /* Ajoutez d'autres styles ici */
