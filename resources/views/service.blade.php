@@ -26,47 +26,86 @@
         <h1>Services</h1>
 </div>
         </section>
-        <section class="all-serv">
-            <div class="containerh">
-                <div class="image-all-service containerh ">
-                    <div class="inner-service">
-                        <div class="img-serv">
-                            <img src="/images/Group689 .png" alt="">
-    
-                        </div>
-                        <a href="#" class="frm-contact">Formulaire de contact</a>
+        <div class="section">
+            <div class="containerh flex-serv">
+                <div class="sc-service">
+                    <div class="serv-img">
+                        <img src="/images/wooden-bridge-koh-nangyuan-island-surat-thani-thailand.jpg" width="200px" height="200" alt="">
                     </div>
-                    <div class="inner-service">
-                        <div class="img-serv">
-                            <img src="/images/Group690.png" alt="">
-    
-                        </div>
-                        <a href="#" class="frm-contact">Formulaire de contact</a>
+                    <div class="serv-xtx">
+                        <h4>Planification Voyage 
+                        </h4>
+                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        </p>
+                        <a href=""></a>
                     </div>
-                    <div class="inner-service">
-                        <div class="img-serv">
-                            <img src="/images/Group 691.png" alt="">
-    
-                        </div>
-                        <a href="#" class="frm-contact">Formulaire de contact</a>
+                </div>
+                <div class="sc-service">
+                    <div class="serv-img">
+                        <img src="/images/Chauffeur-1920x1308.jpg" width="200px" height="200" alt="">
                     </div>
-                    <div class="inner-service">
-                        <div class="img-serv">
-                            <img src="/images/Group 692.png" alt="">
-    
-                        </div>
-                        <a href="#" class="frm-contact">Formulaire de contact</a>
+                    <div class="serv-xtx">
+                        <h4>Fast Car 
+
+                        </h4>
+                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        </p>
+                        <a href=""></a>
                     </div>
-                    <div class="inner-service">
-                        <div class="img-serv">
-                            <img src="/images/Group 692 8.08.13 AM.png" alt="">
-    
-                        </div>
-                        <a href="#" class="frm-contact">Formulaire de contact</a>
+                </div>
+                <div class="sc-service">
+                    <div class="serv-img">
+                        <img src="/images/flat-lay-real-estate-concept.jpg" width="200px" height="200" alt="">
+                    </div>
+                    <div class="serv-xtx">
+                        <h4>Hébergement
+                        </h4>
+                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        </p>
+                        <a href=""></a>
+                    </div>
+                </div>
+                <div class="sc-service">
+                    <div class="serv-img">
+                        <img src="/images/high-angle-hand-holding-car-key.jpg" width="200px" height="200" alt="">
+                    </div>
+                    <div class="serv-xtx">
+                        <h4>Location de voiture 
+ 
+                        </h4>
+                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        </p>
+                        <a href=""></a>
+                    </div>
+                </div>
+                <div class="sc-service">
+                    <div class="serv-img">
+                        <img src="/images/arab-people-with-camel-caravan.jpg" width="200px" height="200" alt="">
+                    </div>
+                    <div class="serv-xtx">
+                        <h4>Excursion
+ 
+                        </h4>
+                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        </p>
+                        <a href=""></a>
+                    </div>
+                </div>
+                <div class="sc-service">
+                    <div class="serv-img">
+                        <img src="/images/dinner-table-with-foods-soft-drinks-restaurant.jpg" width="200px" height="200" alt="">
+                    </div>
+                    <div class="serv-xtx">
+                        <h4>Sortie
+ 
+                        </h4>
+                        <p>DI.ALLO Conciergerie prend en charge la conception et l'organisation de vos voyages sur mesure, vous garantissant une tranquillité d'esprit totale.
+                        </p>
+                        <a href=""></a>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
     </main>
 </body>
 </html>

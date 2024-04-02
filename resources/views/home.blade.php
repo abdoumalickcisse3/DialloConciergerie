@@ -30,39 +30,39 @@
          
            <div class="im-heros">
            
-            <div class="img-heros">
+            <div class="img-heros ">
            
                 <img src="/images/arton72525.png" alt="">
                 <div class="text-overlay">
-                    <h2>DI.ALLO CONCIERGERIE est une 
-                        expression de notre passion profonde de faciliter la vie de nos 
-                        clients,avec la vision de creer des experience inoubliables et  des moments
-                        uniques pour ceux que nous servons .
-                        <<Avec DI.ALLO CONCIERGERIE vos voyage deviennent plus sereins >>
+                    <h2>
+                        DI.ALLO CONCIERGERIE est une expression de notre passion profonde pour faciliter la vie de nos clients, avec la vision de créer des expériences inoubliables et des moments uniques pour ceux que nous servons.
+                        <br>
+                        « Avec DI.ALLO CONCIERGERIE vos voyages deviennent plus sereins »
                     </h2>
+                    
                   
                 </div>
             </div>
             <div class="img-heros">
                 <img src="/images/Marokko_Chefchaouen_Blick_u__ber_die_Stadt.jpg" alt="">
                 <div class="text-overlay">
-                    <h2>DI.ALLO CONCIERGERIE est une 
-                        expression de notre passion profonde de faciliter la vie de nos 
-                        clients,avec la vision de creer des experience inoubliables et  des moments
-                        uniques pour ceux que nous servons .
-                        <<Avec DI.ALLO CONCIERGERIE vos voyage deviennent plus sereins >>
+                    <h2>
+                        DI.ALLO CONCIERGERIE est une expression de notre passion profonde pour faciliter la vie de nos clients, avec la vision de créer des expériences inoubliables et des moments uniques pour ceux que nous servons.
+                        <br>
+                        « Avec DI.ALLO CONCIERGERIE vos voyages deviennent plus sereins »
                     </h2>
+                    
                 </div>
             </div>
             <div class="img-heros">
                 <img src="/images/pexels-moussa-idrissi-3581916.jpg" alt="">
                 <div class="text-overlay">
-                    <h2>DI.ALLO CONCIERGERIE est une 
-                        expression de notre passion profonde de faciliter la vie de nos 
-                        clients,avec la vision de creer des experience inoubliables et  des moments
-                        uniques pour ceux que nous servons .
-                        <<Avec DI.ALLO CONCIERGERIE vos voyage deviennent plus sereins >>
+                    <h2>
+                        DI.ALLO CONCIERGERIE est une expression de notre passion profonde pour faciliter la vie de nos clients, avec la vision de créer des expériences inoubliables et des moments uniques pour ceux que nous servons.
+                        <br>
+                        « Avec DI.ALLO CONCIERGERIE vos voyages deviennent plus sereins »
                     </h2>
+                    
                 </div>
             </div>
            </div>
@@ -72,16 +72,12 @@
 
         <div class="txtof">
             <div class="xtx">
-           <p>Bienvenue aa service</p>
-             <h2>Chez.DI.ALLO CONCIERGERIE</h2>
+           <h2>Bienvenue au service</h2>
+             <h2 class="xtxt">Chez.DI.ALLO CONCIERGERIE</h2>
              <p>Nous sommes en mesure de fournir un service de haute qualité pour des invités de marque. Notre objectif est d'offrir la sécurité, la discrétion et un confort inégalable pour vous et vos invités.
-
-                De plus, nous avons élaboré des solutions adaptées pour vos déplacements professionnels ou privés. Quel que soit le temps que durera votre sortie, votre bien-être et votre satisfaction sont notre priorité.
-                 
-                Avec DI°ALLO Conciergerie, découvrez la qualité et la fiabilité d'une équipe disponible, courtoise, réactive et à votre écoute tout au long de votre séjour.  
-                
-                Chez DI°ALLO Conciergerie, nous ne nous contentons pas de fournir des services ; nous nous engageons profondément envers le bonheur et le bien-être de nos clients. Nous sommes fiers de créer des expériences significatives qui répondent à leurs besoins individuels et laissent une empreinte durable dans leur vie."
-                </p>
+            De plus, nous avons élaboré des solutions adaptées pour vos déplacements professionnels ou privés. Quel que soit le temps que durera votre sortie, votre bien-être et votre satisfaction sont notre priorité.</p>
+             <p>Avec DI°ALLO Conciergerie, découvrez la qualité et la fiabilité d'une équipe disponible, courtoise, réactive et à votre écoute tout au long de votre séjour.</p>
+             <p>Chez DI°ALLO Conciergerie, nous ne nous contentons pas de fournir des services ; nous nous engageons profondément envers le bonheur et le bien-être de nos clients. Nous sommes fiers de créer des expériences significatives qui répondent à leurs besoins individuels et laissent une empreinte durable dans leur vie.</p>
                 <a href="#">Nous Ecrire</a>
             </div>
             <img src="/images/ServicesdeConciergeriedeluxeMonde.jpeg" alt="">
@@ -128,70 +124,40 @@
                     <a href="#" class="frm-contact">Formulaire de contact</a>
                 </div>
             </div>
-            <div class="video-contain containerh video-items">
-                <iframe class="embedd" src="https://www.youtube.com/embed/MTyy6BPSp2U"
-                    title="FRANCO-MAROCAINE, ELLE S&#39;INSTALLE À MARRAKECH ET CRÉE UNE CONCIERGERIE" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
-                <iframe class="embedd" src="https://www.youtube.com/embed/MTyy6BPSp2U"
-                    title="FRANCO-MAROCAINE, ELLE S&#39;INSTALLE À MARRAKECH ET CRÉE UNE CONCIERGERIE" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
-                <iframe class="embedd" src="https://www.youtube.com/embed/MTyy6BPSp2U"
-                    title="FRANCO-MAROCAINE, ELLE S&#39;INSTALLE À MARRAKECH ET CRÉE UNE CONCIERGERIE" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
-                <iframe class="embedd" src="https://www.youtube.com/embed/MTyy6BPSp2U"
-                    title="FRANCO-MAROCAINE, ELLE S&#39;INSTALLE À MARRAKECH ET CRÉE UNE CONCIERGERIE" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
-                <iframe class="embedd" src="https://www.youtube.com/embed/MTyy6BPSp2U"
-                    title="FRANCO-MAROCAINE, ELLE S&#39;INSTALLE À MARRAKECH ET CRÉE UNE CONCIERGERIE" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
-            </div>
+           
 
         </section>
-        <section class="nsEcrire">
-            <div class="containerh">
-                <div class="styl">
-                    Envie de travailler avec nous ?</div>
-                <div class="styl1">
-                    Grâce à notre polyvalence, nous avons pu comprendre et adapter à chacun de ces domaines d'activité ;
-                    tout en identifiant leurs besoins et la meilleure</div>
-                <a href="#">Nous écrire</a>
-            </div>
-        </section>
-        <section class="nsVls">
-            <div class="nsVls-item containerh">
-                <div class="nsVl-title">
-                    <h2 class="titre-barre">Nos Valeurs</h2>
-                    <div class="allVls">
-                        <div class="Vls">
-                            <img src="/images/assistive-listening-systems.png" alt="">
-                            <h4>Ecoute</h4>
-                        </div>
-                        <div class="Vls">
-                            <img src="/images/like-dislike.png" alt="">
-                            <h4>Confiance</h4>
-                        </div>
-                        <div class="Vls">
-                            <img src="/images/medal-star.svg" alt="">
-                            <h4>Efficacite</h4>
-                        </div>
-                        <div class="Vls">
-                            <img src="images/human-greeting-proximity.png" alt="">
-                            <h4>Proximite</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="nsVl-img">
-                    <img src="/images/img-devis.png" alt="">
-                </div>
+       
+       <div class="containerhh">
+        <h3 class="h3-ttl">Ce qu’ils disent de nous 
+        </h3>
+        <div id="avantages">
+          <div class="bloc-avtg">
+            <div class="picto-cont"><img class="picto" src="/images/pexels-photo-5372800.jpeg"/></div>
+            <h4>Zouleykha</h4><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></div>
+          <div class="bloc-avtg">
+                <div class="picto-cont"><img class="picto" src="/images/pexels-photo-2253415.jpeg"/></div><h4>Avantage 2</h4><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p></div>
+          <div class="bloc-avtg">
+                <div class="picto-cont"><img class="picto" src="/images/free-photo-of-homme-lunettes-de-soleil-visage-portrait.jpeg"/></div><h4>Avantage 3</h4><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p></div>
+          <div class="bloc-avtg">
+                <div class="picto-cont"><img class="picto" src="/images/free-photo-of-homme-lunettes-de-soleil-visage-portrait.jpeg"/></div><h4>Avantage 3</h4><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p></div>
+        </div>
+        <div id="avantages">
+          <div class="bloc-avtg">
+            <div class="picto-cont"><img class="picto" src="/images/pexels-photo-5372800.jpeg"/></div>
+            <h4>Zouleykha</h4><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></div>
+          <div class="bloc-avtg">
+                <div class="picto-cont"><img class="picto" src="/images/pexels-photo-2253415.jpeg"/></div><h4>Avantage 2</h4><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p></div>
+          <div class="bloc-avtg">
+                <div class="picto-cont"><img class="picto" src="/images/free-photo-of-homme-lunettes-de-soleil-visage-portrait.jpeg"/></div><h4>Avantage 3</h4><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p></div>
+          <div class="bloc-avtg">
+                <div class="picto-cont"><img class="picto" src="/images/free-photo-of-homme-lunettes-de-soleil-visage-portrait.jpeg"/></div><h4>Avantage 3</h4><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p></div>
+        </div>
+       
+       
+        
+       </div>
 
-            </div>
-
-        </section>
         <section class="cntc">
             <div class="containerh ctc">
                 <div
@@ -249,64 +215,44 @@
                 </div>
             </div>
         </section>
+
+        <section class="quisommenous">
+
+            <div class="containerh">
+                <div class="iv">
+                    <h1>A propos de nous 
+                    </h1>
+                </div>
+                <div class="ivv">
+                    <p>DI°ALLO Conciergerie, une entreprise qui va bien au-delà des frontières, est fondée par Abdelaziz DIALLO, un jeune sénégalo-marocain, de père sénégalais et d'une mère marocaine. Son parcours a débuté au Sénégal, imprégné de la richesse culturelle et familiale de ses origines. Ayant établi son foyer au Maroc depuis neuf ans maintenant, il a trouvé dans ce pays un nouveau cadre pour donner vie à ses rêves et à ses aspirations.</p>
+                    <p>DI°ALLO Conciergerie n'est pas simplement une entreprise, mais plutôt une expression de notre passion profonde de faciliter la vie de nos clients. Cette aventure entrepreneuriale a commencé il y a quelques années, avec la vision de créer des expériences inoubliables et des moments uniques pour ceux que nous servons.</p>
+                    <p>Au cœur de cette entreprise se trouve un associé, Mamadou Diallo, dont l'expertise et le dévouement ont grandement contribué à façonner DI°ALLO Conciergerie. Établi au Sénégal, Mamadou apporte une perspective locale précieuse à notre travail, enrichissant ainsi notre capacité à servir nos clients de manière exceptionnelle, qu'ils se trouvent au Maroc, au Sénégal, ou ailleurs.</p>
+                    <p>Chez DI°ALLO Conciergerie, nous ne nous contentons pas de fournir des services ; nous nous engageons profondément envers le bonheur et le bien-être de nos clients. Nous sommes fiers de créer des expériences significatives qui répondent à leurs besoins individuels et laissent une empreinte durable dans leur vie.</p>
+                    <p>DI°ALLO CONCIERGERIE et vos voyages deviennent plus sereins...</p>
+                </div>
+            </div>
+        </section>
     </main>
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script type="text/javascript">
 
-        $('.video-items').slick({
-            infinite: true,
-            slidesToShow: 3,
-            slidesToScroll: 1,
-            arrows: true,
-            prevArrow: '<img class="slick-prev" src="/images/arrow-left.png">',
-            nextArrow: '<img class="slick-next" src="/images/arrow-right.png">',
-            responsive: [
-                {
-                    breakpoint: 1550,
-                    settings: {
-                        slidesToShow: 3,
-                        slidesToScroll: 1,
-                    }
-                },
-                {
-                    breakpoint: 1270,
-                    settings: {
-                        slidesToShow: 2,
-                        slidesToScroll: 1,
-                    }
-                },
-                {
-                    breakpoint: 900,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1,
-                    }
-                },
-                {
-                    breakpoint: 456,
-                    settings: {
-                        slidesToShow: 1,
 
-                    }
-                },
+$(document).ready(function() {
+    
+    $('.im-heros').slick({
+        infinite: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        autoplay: true,
+        autoplaySpeed: 3000,
+        fade: true
+    });
+});
 
-
-
-            ]
-        });
-        $('.im-heros').slick({
-            infinite: true,
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            arrows: false,
-            autoplay: true,
-            autoplaySpeed: 1000,
-            fade: true,
-          
-           
-            
-        });
+        
+      
     </script>
     <script type="text/javascript">
 

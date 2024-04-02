@@ -67,6 +67,36 @@
     <script src="https://unpkg.com/scrollreveal"></script>
 
     <script src="{{ asset('/jsfiles/navbar.js') }}"></script> 
+    <script>
+        window.addEventListener('DOMContentLoaded', function() {
+            var logo1 = document.getElementById('logo1');
+            var logo2 = document.getElementById('logo2');
+            var scrollPosition = window.scrollY;
+    
+            if (scrollPosition > 100) {
+                logo1.style.display = 'none';
+                logo2.style.display = 'block';
+            } else {
+                logo1.style.display = 'block';
+                logo2.style.display = 'none';
+            }
+        });
+    
+        window.addEventListener('scroll', function() {
+            var logo1 = document.getElementById('logo1');
+            var logo2 = document.getElementById('logo2');
+            var scrollPosition = window.scrollY;
+    
+            if (scrollPosition > 100) {
+                logo1.style.display = 'none';
+                logo2.style.display = 'block';
+            } else {
+                logo1.style.display = 'block';
+                logo2.style.display = 'none';
+            }
+        });
+    </script>
+    
 
     {{-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script type="text/javascript">

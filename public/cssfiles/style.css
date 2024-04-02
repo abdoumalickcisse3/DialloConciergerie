@@ -35,6 +35,19 @@ body {
     background: var(--bg-color);
     color: var(--text-color);
 }
+<<<<<<< HEAD
+=======
+
+#logo1 {
+    width: 200px;
+}
+>>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
+
+#logo2 {
+    width: 200px;
+}
+
+
 
 .header {
     position: fixed;
@@ -42,8 +55,13 @@ body {
     left: 0;
     width: 100%;
     padding: 15px 100px;
+<<<<<<< HEAD
    
     background: var(--bg-color);
+=======
+
+    background: transparent;
+>>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     display: flex;
     align-items: center;
     z-index: 100;
@@ -62,18 +80,33 @@ body {
     font-weight: 600;
     margin-right: auto;
 }
+<<<<<<< HEAD
 
 .navbar a {
     position: relative;
     font-size: 20px; 
     font-family: 'Poppins'; 
+=======
+
+.logo1 {
+    font-size: 2.5rem;
+    color: var(--main-color);
+    font-weight: 600;
+    margin-right: auto;
+}
+
+.navbar a {
+    position: relative;
+    font-size: 20px;
+    font-family: 'Serif';
+>>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     font-weight: 700;
     color: var(--main-color);
     margin-right: 3.5rem;
     text-decoration: none !important;
 }
 
-.signature{
+.signature {
 
     text-align: center;
     color: var(--bg-color);
@@ -96,9 +129,15 @@ body {
 
 }
 
-.navbar .last-child{
-    
+.navbar .last-child {
+
     padding-right: 85px;
+
+}
+
+.navbar {
+
+    margin-left: 132px;
 
 }
 
@@ -133,36 +172,40 @@ body {
 
 
 
-.footer-top{
+.footer-top {
     background: var(--main-color);
     padding: 80px 130px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-.footer-content1{
+.footer-content1 {
     width: 468px;
     height: 128px;
 }
-.footer-content2{
+
+.footer-content2 {
     width: 185px;
     height: 141px;
     display: flex;
     flex-direction: column;
     color: white;
 }
-.footer-content3{
+
+.footer-content3 {
     width: 178px;
     height: 141px;
     display: flex;
     flex-direction: column;
     color: white;
 }
-.footer-content4{
+
+.footer-content4 {
     width: 300px;
     height: 184px;
 }
-.footer-content1 p{
+
+.footer-content1 p {
     width: 300px;
     color: white;
     font-size: 18px;
@@ -171,7 +214,7 @@ body {
     word-wrap: break-word;
 }
 
-.footer-content2  a{
+.footer-content2 a {
     text-decoration: none;
     color: white;
     font-size: 18px;
@@ -179,10 +222,12 @@ body {
     font-weight: 700;
     word-wrap: break-word;
 }
-.footer-content2 a:hover{
+
+.footer-content2 a:hover {
     color: var(--linear-color);
 }
-.footer-content3  a{
+
+.footer-content3 a {
     text-decoration: none;
     color: white;
     font-size: 18px;
@@ -190,14 +235,16 @@ body {
     font-weight: 700;
     word-wrap: break-word;
 }
-.footer-content4 h3{
+
+.footer-content4 h3 {
     color: white;
     font-size: 18px;
     font-family: Poppins;
     font-weight: 700;
     word-wrap: break-word;
 }
-.footer-contact{
+
+.footer-contact {
     display: flex;
     flex-direction: column;
     gap: 5px;
@@ -207,28 +254,40 @@ body {
     line-height: 26px;
     word-wrap: break-word;
 }
-.footer-contact-items{
+
+.footer-contact-items {
     display: flex;
     gap: 6px;
 }
+<<<<<<< HEAD
 .footer-contact-items a{
     color: white; 
     font-size: 13px; 
     font-family: 'Poppins'; 
     font-weight: 300; 
     line-height: 26px; 
+=======
+
+.footer-contact-items a {
+    color: white;
+    font-size: 13px;
+    font-family: 'Serif';
+    font-weight: 300;
+    line-height: 26px;
+>>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     text-decoration: none;
     word-wrap: break-word
 }
 
-.footer-bottom{
+.footer-bottom {
     align-items: center;
     display: flex;
     justify-content: space-between;
     padding: 26px 190px;
     background: rgba(0, 0, 0, 0.79);
 }
-.tagline{
+
+.tagline {
     color: white;
     font-size: 12px;
     font-family: 'Poppins';
@@ -236,15 +295,17 @@ body {
     line-height: 22.39px;
     word-wrap: break-word;
 }
-.social-icons{
+
+.social-icons {
     display: flex;
     gap: 30px;
 }
-.banniere{
+
+.banniere {
     padding-top: 100px;
 }
 
-.banner{
+.banner {
     width: 1440px;
     height: 418px;
     display: flex;
@@ -255,7 +316,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-.banner p{
+
+.banner p {
     color: #F1913F;
     font-size: 12px;
     font-family: 'Poppins';
@@ -263,22 +325,26 @@ body {
     text-transform: uppercase;
     word-wrap: break-word;
 }
-.banner h1{
+
+.banner h1 {
     color: #EEEEEE;
     font-size: 34px;
     font-family: Poppins;
     font-weight: 700;
     word-wrap: break-word;
 }
-.about-content{
+
+.about-content {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-.about-content-item{
+
+.about-content-item {
     width: 1179px;
     height: 509px;
+<<<<<<< HEAD
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding-top: 50px;
@@ -298,6 +364,98 @@ body {
 }
 .item-text h1{
     width: 581px;
+=======
+}
+
+.banner1 {
+    width: 1440px;
+    height: 780px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(../images/pexels-mag-photography-14398432.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner1 p {
+    color: #F1913F;
+    font-size: 12px;
+    font-family: 'Serif';
+    font-weight: 600;
+    text-transform: uppercase;
+    word-wrap: break-word;
+}
+
+.banner1 h1 {
+    color: #f9ea74;
+    width: 650px;
+    text-align: center;
+    font-size: 64px;
+    font-family: Serif;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.about-content-item1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 100px;
+}
+
+.gridal1 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.gridal2 {
+    padding-top: 70px;
+}
+
+.gridal1-item-title {
+    font-size: 36px;
+    font-family: serif;
+    font-weight: 900;
+}
+
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    background-color: green;
+    /* Couleur de fond par défaut */
+    border-radius: 50%;
+    /* Pour un aspect rond */
+    padding: 10px;
+    animation: pulse-animation 1s infinite alternate;
+}
+
+.whatsapp-button img {
+    width: 60px;
+    height: auto;
+}
+
+@keyframes pulse-animation {
+    from {
+        background-color: green;
+        /* Couleur de fond initiale */
+    }
+
+    to {
+        background-color: lime;
+        /* Nouvelle couleur de fond */
+    }
+}
+
+.gridal1-item-text {
+
+    font-family: serif;
+    font-size: 15px;
+    font-weight: 100;
+>>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     text-align: justify;
     color: #DAA520;
     font-size: 36px;
@@ -306,6 +464,7 @@ body {
     word-wrap: break-word;
     padding-bottom: 30px;
 }
+<<<<<<< HEAD
 .item-text2 h5{
     color: #DAA520;
     font-size: 20px;
@@ -321,8 +480,28 @@ body {
     font-weight: 700;
     word-wrap: break-word;
 
+=======
+
+.gridal1-item-link {
+    text-decoration: none;
+    color: black;
+    font-family: serif;
+    font-size: 16px;
+    padding: 16px 24px;
+    width: 148px;
+    background-color: var(--bs-warning);
+    border-radius: 5px;
 }
-.item-text2 ul{
+
+.gridal2 img {
+    width: 634px;
+    position: absolute;
+    height: 346px;
+    left: 752px;
+>>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
+}
+
+.item-text2 ul {
 
     color: black;
     font-size: 20px;
@@ -331,28 +510,33 @@ body {
     word-wrap: break-word;
 
 }
-.galerie{
+
+.galerie {
     background: rgba(255, 198.90, 0, 0.33);
     padding: 200px 130px;
     display: flex;
     flex-direction: column;
     gap: 42px;
 }
-.galerie-item{
+
+.galerie-item {
     display: flex;
     gap: 20px;
 }
-.galerie-item-content3{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-.galerie-item-content5{
+
+.galerie-item-content3 {
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
-.galerie-item-content6{
+
+.galerie-item-content5 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.galerie-item-content6 {
     display: flex;
     gap: 20px;
 }
@@ -371,9 +555,11 @@ body {
     #menu-icon {
         display: block;
     }
+
     .navbar a:nth-child(2) {
         color: var(--bg-color);
     }
+
     .navbar {
         position: absolute;
         top: 100%;
@@ -418,24 +604,28 @@ body {
     .navbar a::before {
         display: none;
     }
-    .footer-top{
+
+    .footer-top {
         display: flex;
-    flex-direction: column;
-    gap: 50px;
+        flex-direction: column;
+        gap: 50px;
     }
-    .about-content{
+
+    .about-content {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: baseline;
     }
-    .about-content-item{
+
+    .about-content-item {
         width: 579px;
         display: flex;
         flex-direction: column;
         gap: 31px;
         padding-top: 20px;
     }
+
     .banner {
         width: 598px;
         height: 418px;
@@ -447,6 +637,7 @@ body {
         background-size: cover;
         background-repeat: no-repeat;
     }
+
     .footer-top {
         width: 598px;
         background: var(--main-color);
@@ -455,6 +646,7 @@ body {
         flex-direction: column;
         gap: 50px;
     }
+
     .footer-bottom {
         width: 598px;
         align-items: center;
@@ -465,6 +657,32 @@ body {
         padding: 26px 190px;
         background: rgba(0, 0, 0, 0.79);
     }
+<<<<<<< HEAD
+=======
+
+    .footer-content1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-content1 p {
+        text-align: center;
+    }
+
+    .footer-content2 {
+        text-align: center;
+    }
+
+    .footer-content3 {
+        text-align: center;
+    }
+
+    .footer-content4 {
+        text-align: center;
+    }
+
+>>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     .tagline {
         width: 225px;
         color: white;
@@ -474,5 +692,13 @@ body {
         line-height: 22.39px;
         word-wrap: break-word;
     }
+<<<<<<< HEAD
     
+=======
+
+    .logo1 {
+        margin-right: 0px;
+    }
+
+>>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
 }
