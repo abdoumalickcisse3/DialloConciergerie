@@ -22,8 +22,8 @@ use App\Http\Controllers\ContactController;
 Route::get('/', function () {
     return view('home');
 });
-Route::get('/service', function () {
-    return view('service');
+Route::get('/blog', function () {
+    return view('blog');
 });
 Route::get('/Apropos', [AproposController::class, 'index'])->name('apropos');
 Route::get('/Galerie', [GalerieController::class, 'index'])->name('galerie');

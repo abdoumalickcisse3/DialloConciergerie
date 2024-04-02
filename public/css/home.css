@@ -2,11 +2,7 @@
     font-family: sans-serif poppins;
 }
 
-<<<<<<< HEAD
-main {
-=======
 /* main {
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     padding-top: 100px;
 } */
 
@@ -319,13 +315,9 @@ body {
 
 .img-heros img {
     width: 100%;
-<<<<<<< HEAD
-    height: 600px;
-=======
     max-height: 809px;
     height: 100%;
     object-fit: cover;
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
 }
 
 .im-heros {
@@ -343,16 +335,11 @@ body {
     /* Assure que le texte soit au-dessus de l'image */
 }
 
-<<<<<<< HEAD
-.text-overlay h2,
-.text-overlay p {
-=======
 .text-overlay h2 {
     width: 529px;
     line-height: 31px;
     font-size: 20px;
     font-family: serif;
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     margin: 0;
 }
 
@@ -360,34 +347,18 @@ body {
 
 .txtof {
     display: flex;
-<<<<<<< HEAD
-    /* gap: 390px; */
-=======
     gap: 35px;
     background-color: #c5c5c7;
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     width: 100% !important;
 }
 
 .txtof img {
-<<<<<<< HEAD
-    width: 54%;
-=======
     width: 50%;
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     object-fit: cover;
     height: 660px;
 }
 
 
-<<<<<<< HEAD
-.xtx {
-    text-align: center;
-    width: 100%;
-    padding-top: 110px;
-}
-
-=======
 .xtx a {
     text-decoration: none;
     padding: 10px 24px;
@@ -633,7 +604,6 @@ p {
 
 
 
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
 /* Ajoutez d'autres styles ici */
 
 /* Media Queries pour les écrans de taille moyenne (tablettes) */

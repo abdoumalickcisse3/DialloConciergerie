@@ -35,13 +35,10 @@ body {
     background: var(--bg-color);
     color: var(--text-color);
 }
-<<<<<<< HEAD
-=======
 
 #logo1 {
     width: 200px;
 }
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
 
 #logo2 {
     width: 200px;
@@ -55,13 +52,8 @@ body {
     left: 0;
     width: 100%;
     padding: 15px 100px;
-<<<<<<< HEAD
-   
-    background: var(--bg-color);
-=======
 
     background: transparent;
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     display: flex;
     align-items: center;
     z-index: 100;
@@ -80,13 +72,6 @@ body {
     font-weight: 600;
     margin-right: auto;
 }
-<<<<<<< HEAD
-
-.navbar a {
-    position: relative;
-    font-size: 20px; 
-    font-family: 'Poppins'; 
-=======
 
 .logo1 {
     font-size: 2.5rem;
@@ -99,7 +84,6 @@ body {
     position: relative;
     font-size: 20px;
     font-family: 'Serif';
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     font-weight: 700;
     color: var(--main-color);
     margin-right: 3.5rem;
@@ -259,22 +243,12 @@ body {
     display: flex;
     gap: 6px;
 }
-<<<<<<< HEAD
 .footer-contact-items a{
     color: white; 
     font-size: 13px; 
     font-family: 'Poppins'; 
     font-weight: 300; 
     line-height: 26px; 
-=======
-
-.footer-contact-items a {
-    color: white;
-    font-size: 13px;
-    font-family: 'Serif';
-    font-weight: 300;
-    line-height: 26px;
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     text-decoration: none;
     word-wrap: break-word
 }
@@ -344,7 +318,6 @@ body {
 .about-content-item {
     width: 1179px;
     height: 509px;
-<<<<<<< HEAD
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding-top: 50px;
@@ -364,7 +337,6 @@ body {
 }
 .item-text h1{
     width: 581px;
-=======
 }
 
 .banner1 {
@@ -455,7 +427,6 @@ body {
     font-family: serif;
     font-size: 15px;
     font-weight: 100;
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     text-align: justify;
     color: #DAA520;
     font-size: 36px;
@@ -464,7 +435,6 @@ body {
     word-wrap: break-word;
     padding-bottom: 30px;
 }
-<<<<<<< HEAD
 .item-text2 h5{
     color: #DAA520;
     font-size: 20px;
@@ -479,8 +449,7 @@ body {
     font-family: Poppins;
     font-weight: 700;
     word-wrap: break-word;
-
-=======
+}
 
 .gridal1-item-link {
     text-decoration: none;
@@ -498,7 +467,6 @@ body {
     position: absolute;
     height: 346px;
     left: 752px;
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
 }
 
 .item-text2 ul {
@@ -657,8 +625,6 @@ body {
         padding: 26px 190px;
         background: rgba(0, 0, 0, 0.79);
     }
-<<<<<<< HEAD
-=======
 
     .footer-content1 {
         display: flex;
@@ -682,7 +648,6 @@ body {
         text-align: center;
     }
 
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
     .tagline {
         width: 225px;
         color: white;
@@ -692,13 +657,10 @@ body {
         line-height: 22.39px;
         word-wrap: break-word;
     }
-<<<<<<< HEAD
     
-=======
 
     .logo1 {
         margin-right: 0px;
     }
 
->>>>>>> ad14d88 (modification  service et accueil ainsi que le header)
 }
